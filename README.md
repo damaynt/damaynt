@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damaynt
-- 👀 I’m interested in Data
+- 👀 I’m interested with Data
 - 📫 How to reach me? Mail to : damaynt.may@gmail.com
 
 <!---
